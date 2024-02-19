@@ -10,7 +10,7 @@ This repository contains the data and Jupyter notebooks for an exploratory data 
 - To identify trends and seasonal patterns in the real estate market data.
 
 ## Data Source
-The data used in this analysis comes from publicly available datasets provided by Realtor.com, which include metrics such as listing prices, active listing counts, and days on market.
+The data used in this analysis comes from publicly available datasets provided by Realtor.com and the US Federal Reserve, which include metrics such as listing prices, active listing counts, 30-year mortgage rate, and days on market.
 
 ## Repository Structure
 - `data/`: This folder contains the CSV files with the real estate market data.
